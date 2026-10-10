@@ -146,19 +146,7 @@ Netflix更强调同一家庭成员使用同一个账号，而合租用户来自�
 
 总的来说，Netflix合租不能只看价格。账号类型、使用周期、电视端支持、同户验证、同时播放限制、账号异常处理和售后规则，都会直接影响后续使用体验。第一次使用时，可以先选择较短周期，实际体验一段时间后，再决定是否继续续费或者更换长期套餐。
 
-## 七、三个主流Netflix合租平台对比
-
-目前提供Netflix合租服务的平台不少，但不同平台在账号类型、购买周期、播放清晰度、同户验证和电视端支持方面存在明显差别。下面根据银河录像局、飞行派和账号星球的商品页面进行整理，方便大家先快速了解这三个平台的主要区别。
-
-| 合租平台 | 套餐与价格 | 核心特点 |
-|:---:|:---:|:---:|
-| <a href="https://nf.video/BTgSc">银河录像局</a> | 3个月99元、12个月360元 | 年付套餐支持同户验证 |
-| <a href="https://spotifyzc.com/?incode=anyofai">飞行派</a> | 1个月33.9元、3个月94.9元、12个月349.9元 | 支持4K和同户验证，自动发货 |
-| <a href="https://accboyytbanyofai.acceboy.com/zh-cn-cny/buy-Netflix">账号星球</a> | 共享账号30天49.8元；独享账号30天168元 | 独享账号支持电视端 |
-
-需要注意的是，选择Netflix合租平台时不能只比较价格，还要结合自己的观看设备、购买周期、电视端需求、同户验证支持情况，以及账号失效后的售后方式进行判断。
-
-## 八、Netflix合租平台（一）：<a href="https://nf.video/BTgSc">银河录像局</a>
+## 七、Netflix合租平台（一）：<a href="https://nf.video/BTgSc">银河录像局</a>
 
 ![Netflix合租平台（一）：银河录像局](https://raw.githubusercontent.com/naifeihezu/netflix-hezu/refs/heads/main/image/Netflix-hezu-2.png)
 
@@ -179,7 +167,7 @@ Netflix更强调同一家庭成员使用同一个账号，而合租用户来自�
 
 需要注意的是，如果银河录像局为你更换了账号，原来Profile中的观看记录、收藏片单和个性化推荐可能无法继续保留。因此，大家在使用银河录像局Netflix共享车位时，建议保存好订单信息，并通过平台提供的客服入口处理账号问题，不要自行修改账号密码、PIN码或者其他重要资料。
 
-## 九、Netflix合租平台（二）：<a href="https://spotifyzc.com/?incode=anyofai">飞行派</a>
+## 八、Netflix合租平台（二）：<a href="https://spotifyzc.com/?incode=anyofai">飞行派</a>
 
 ![Netflix合租平台（二）：飞行派](https://raw.githubusercontent.com/naifeihezu/netflix-hezu/refs/heads/main/image/Netflix-hezu-3.png)
 
@@ -197,7 +185,7 @@ Netflix更强调同一家庭成员使用同一个账号，而合租用户来自�
 
 飞行派的Netflix合租服务也支持同户验证。使用过程中，如果遇到“此设备不属于Netflix同户设备”等提示，可以按照平台提供的说明进行验证。此外，飞行派还提供使用期内全程质保。如果遇到账号密码错误、无法登录、会员失效或者同户验证无法完成等问题，也可以直接联系在线客服处理。
 
-## 十、Netflix合租平台（三）：<a href="https://accboyytbanyofai.acceboy.com/zh-cn-cny/buy-Netflix">账号星球</a>
+## 九、Netflix合租平台（三）：<a href="https://accboyytbanyofai.acceboy.com/zh-cn-cny/buy-Netflix">账号星球</a>
 
 ![Netflix合租平台（三）：账号星球](https://raw.githubusercontent.com/naifeihezu/netflix-hezu/refs/heads/main/image/Netflix-hezu-4.png)
 
@@ -218,7 +206,7 @@ Netflix独享账号的价格更高，但整个账号只提供给一名用户使�
 
 在售后方面，Netflix账号属于交付后即可使用的数字商品，一般不支持无理由退款。如果账号出现异常，账号星球会根据具体情况处理，例如检查登录信息、协助解决账号问题或者更换可用账号。用户登录后不要自行修改密码、PIN码和其他重要资料，也不要将账号再次分享或转卖，以免影响账号的正常使用和后续售后。
 
-## 十一、Netflix合租的优点有哪些？
+## 十、Netflix合租的优点有哪些？
 
 Netflix合租最大的优势，就是可以用更低的价格获得Netflix会员的使用权限。对于预算有限、不想自己处理海外付款，或者只打算短期观看的用户来说，Netflix合租的使用门槛会低很多。
 
@@ -234,7 +222,7 @@ Netflix合租最大的优势，就是可以用更低的价格获得Netflix会员
 
 总的来说，Netflix合租更适合重视价格和购买便利性，并且能够接受共享账号使用规则的用户。购买前只要看清套餐周期、设备支持和售后方式，就能减少后续使用中的麻烦。
 
-## 十二、Netflix合租的缺点有哪些？
+## 十一、Netflix合租的缺点有哪些？
 
 Netflix合租虽然便宜，但本质上还是多人共享一个Netflix账号。与自己单独订阅Netflix会员相比，它在同时播放、电视端使用、观看记录和个人隐私等方面都会存在一定限制。
 
@@ -254,7 +242,7 @@ Netflix合租虽然便宜，但本质上还是多人共享一个Netflix账号。
 
 总的来说，Netflix合租更适合可以接受账号共享、偶尔验证和更换账号的用户。如果更看重电视端稳定性、观看记录、账号控制权和个人隐私，自己订阅Netflix会员或者选择Netflix独享账号会更加合适。
 
-## 十三、国内拼车合租Netflix的常见问题
+## 十二、国内拼车合租Netflix的常见问题
 
 ### 1. 拼车合租Netflix安全吗？
 
